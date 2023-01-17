@@ -1,6 +1,6 @@
 {
   "name": "@renec-foundation/rpl-token-registry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Renec Token Registry",
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",

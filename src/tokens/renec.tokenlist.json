@@ -130,6 +130,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
+      "symbol": "reUSD",
+      "name": "reUSD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
