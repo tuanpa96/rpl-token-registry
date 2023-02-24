@@ -145,6 +145,19 @@
       }
     },
     {
+      "chainId": 102,
+      "address": "DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp",
+      "symbol": "VNLA",
+      "name": "VanillaSwap Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
       "chainId": 101,
       "address": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
       "symbol": "reUSD",
