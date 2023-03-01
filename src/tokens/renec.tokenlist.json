@@ -63,8 +63,7 @@
       "tags": [
         "currency"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -76,8 +75,7 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -89,8 +87,7 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -102,9 +99,8 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {
-      }
-   },
+      "extensions": {}
+    },
     {
       "chainId": 102,
       "address": "FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7",
@@ -115,8 +111,7 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -128,8 +123,7 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -137,12 +131,11 @@
       "symbol": "reUSD",
       "name": "reUSD",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
       "tags": [
         "stablecoin"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -154,8 +147,7 @@
       "tags": [
         "utility-token"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -163,12 +155,11 @@
       "symbol": "reUSD",
       "name": "reUSD",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.svg",
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
       "tags": [
         "stablecoin"
       ],
-      "extensions": {
-      }
+      "extensions": {}
     }
   ],
   "version": {
