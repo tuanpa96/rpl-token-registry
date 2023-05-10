@@ -175,6 +175,30 @@
         "stablecoin"
       ],
       "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4",
+      "symbol": "reBTC",
+      "name": "reBTC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png",
+      "tags": [
+        "wrapped-coin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL",
+      "symbol": "reETH",
+      "name": "reETH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
+      "tags": [
+        "wrapped-coin"
+      ],
+      "extensions": {}
     }
   ],
   "version": {
