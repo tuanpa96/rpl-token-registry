@@ -71,16 +71,8 @@ export class GitHubTokenListResolutionStrategy {
 
 export class CDNTokenListResolutionStrategy {
   repositories = [
-    'https://cdn.jsdelivr.net/gh/renec-chain/rpl-token-registry@main/src/tokens/renec.tokenlist.json',
+    'https://cdn.jsdelivr.net/gh/renec-chain/rpl-token-registry@master/src/tokens/renec.tokenlist.json',
   ];
-
-  resolve = () => {
-    return queryJsonFiles(this.repositories);
-  };
-}
-
-export class SolanaTokenListResolutionStrategy {
-  repositories = ['https://token-list.solana.com/renec.tokenlist.json'];
 
   resolve = () => {
     return queryJsonFiles(this.repositories);
@@ -96,7 +88,7 @@ const queryJsonFiles = async (files: string[]) => {
         return json;
       } catch {
         console.info(
-          `@solana/token-registry: falling back to static repository.`
+          `@renec-chain/rpl-token-registry: falling back to static repository.`
         );
         return tokenlist;
       }
@@ -111,7 +103,6 @@ const queryJsonFiles = async (files: string[]) => {
 export enum Strategy {
   GitHub = 'GitHub',
   Static = 'Static',
-  Solana = 'Solana',
   CDN = 'CDN',
 }
 
@@ -125,7 +116,6 @@ export class TokenListProvider {
   static strategies = {
     [Strategy.GitHub]: new GitHubTokenListResolutionStrategy(),
     [Strategy.Static]: new StaticTokenListResolutionStrategy(),
-    [Strategy.Solana]: new SolanaTokenListResolutionStrategy(),
     [Strategy.CDN]: new CDNTokenListResolutionStrategy(),
   };
 
