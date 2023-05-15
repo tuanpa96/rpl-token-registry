@@ -288,6 +288,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "DJvv6Yt2pef3uVvfysj9m5UfbNN2CKPMvA3QLTk3Qf8Q",
+      "name": "hehe",
+      "symbol": "haha",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhjR0Y2ZUc0d2NEQnNablp1TW5oamJubHRlbTFsZFhSbGNXSnNhd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTVUMTc6MTQ6NDIuMzk0WiIsInB1ciI6ImJsb2Jfa2V5In19--b31a7fc3192d5a7682d8ed5d7dbd604d5ffe8d21/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
