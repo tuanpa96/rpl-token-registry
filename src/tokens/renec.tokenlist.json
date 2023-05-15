@@ -1,1 +1,209 @@
-"{\"name\":\"Renec Token List\",\"logoURI\":\"https://img-portal-prod.s3.amazonaws.com/uploads/image/attachment/33974/logo512.png\",\"keywords\":[\"renec\",\"spl\"],\"tags\":{\"stablecoin\":{\"name\":\"stablecoin\",\"description\":\"Tokens that are fixed to an external asset, e.g. the US dollar\"},\"ethereum\":{\"name\":\"ethereum\",\"description\":\"Asset bridged from ethereum\"},\"lp-token\":{\"name\":\"lp-token\",\"description\":\"Asset representing liquidity provider token\"},\"wrapped\":{\"name\":\"wrapped\",\"description\":\"Asset wrapped using wormhole bridge\"},\"leveraged\":{\"name\":\"leveraged\",\"description\":\"Leveraged asset\"},\"bull\":{\"name\":\"bull\",\"description\":\"Leveraged Bull asset\"},\"bear\":{\"name\":\"bear\",\"description\":\"Leveraged Bear asset\"},\"nft\":{\"name\":\"nft\",\"description\":\"Non-fungible token\"},\"security-token\":{\"name\":\"security-token\",\"description\":\"Tokens that are used to gain access to an electronically restricted resource\"},\"utility-token\":{\"name\":\"utility-token\",\"description\":\"Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens\"},\"tokenized-stock\":{\"name\":\"tokenized-stock\",\"description\":\"Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges\"}},\"timestamp\":\"2021-03-03T19:57:21+0000\",\"tokens\":[{\"chainId\":102,\"address\":\"vaXGtV2RhVvvigLDd77cZa7NR3omLLe9wStYiogGPs8\",\"symbol\":\"PAN\",\"name\":\"Pancake Coin\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/vaXGtV2RhVvvigLDd77cZa7NR3omLLe9wStYiogGPs8/logo.png\",\"tags\":[\"currency\"],\"extensions\":{}},{\"chainId\":102,\"address\":\"jwXRUeahAbU2iaUSic3TdgbPEezcmejY7Fv5Savpg4w\",\"symbol\":\"rUSDT\",\"name\":\"Wrapped Tether USDT\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/jwXRUeahAbU2iaUSic3TdgbPEezcmejY7Fv5Savpg4w/logo.svg\",\"tags\":[\"stablecoin\"],\"extensions\":{}},{\"chainId\":102,\"address\":\"Fzyyy8SQ6K9NTJ7vCemZmxx4pexL8ePuuK7SkU8B7BhU\",\"symbol\":\"rUSDC\",\"name\":\"Wrapped USD Coin\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/Fzyyy8SQ6K9NTJ7vCemZmxx4pexL8ePuuK7SkU8B7BhU/logo.svg\",\"tags\":[\"stablecoin\"],\"extensions\":{}},{\"chainId\":102,\"address\":\"MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR\",\"symbol\":\"VNDR\",\"name\":\"Vietnam Dong\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR/logo.svg\",\"tags\":[\"fiatcoin\"],\"extensions\":{}},{\"chainId\":102,\"address\":\"FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7\",\"symbol\":\"NGNR\",\"name\":\"Nigeria Naira\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7/logo.svg\",\"tags\":[\"fiatcoin\"],\"extensions\":{}},{\"chainId\":102,\"address\":\"6HXkLhS4khE9RzGpNytzhuaon3egDK5mjBesUeKzNjEw\",\"symbol\":\"MYRR\",\"name\":\"Malaysia Ringgit\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/6HXkLhS4khE9RzGpNytzhuaon3egDK5mjBesUeKzNjEw/logo.svg\",\"tags\":[\"fiatcoin\"],\"extensions\":{}},{\"chainId\":102,\"address\":\"4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3\",\"symbol\":\"reUSD\",\"name\":\"reUSD\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png\",\"tags\":[\"stablecoin\"],\"extensions\":{}},{\"chainId\":101,\"address\":\"2Cx8kN9R1Anoh8HgoPaPPRE5FjQhgKNNem7Z6nKAc1p8\",\"symbol\":\"MemeFi\",\"name\":\"Meme Finance\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/2Cx8kN9R1Anoh8HgoPaPPRE5FjQhgKNNem7Z6nKAc1p8/logo.png.jpg\",\"tags\":[\"community-token\"],\"extensions\":{\"discord\":\"https://discord.gg/gVCbUqNQrZ\",\"twitter\":\"https://twitter.com/MemeFi01\"}},{\"chainId\":101,\"address\":\"DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp\",\"symbol\":\"VNLA\",\"name\":\"VanillaSwap Token\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp/logo.png\",\"tags\":[\"utility-token\"],\"extensions\":{}},{\"chainId\":101,\"address\":\"4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3\",\"symbol\":\"reUSD\",\"name\":\"reUSD\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png\",\"tags\":[\"stablecoin\"],\"extensions\":{}},{\"chainId\":101,\"address\":\"GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4\",\"symbol\":\"reBTC\",\"name\":\"reBTC\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png\",\"tags\":[\"wrapped-coin\"],\"extensions\":{}},{\"chainId\":101,\"address\":\"GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL\",\"symbol\":\"reETH\",\"name\":\"reETH\",\"decimals\":9,\"logoURI\":\"https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png\",\"tags\":[\"wrapped-coin\"],\"extensions\":{}},{\"chainId\":102,\"address\":\"HEXH5buBAzwpDPrUbaXEwc4AE1qDa9grdxLkD37v1ZY9\",\"name\":\"bitcoin\",\"symbol\":\"BTC\",\"decimals\":9,\"logoURI\":\"http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOVEpsTTNOcVlubDNhV2xyTld3eU9USTBjVGsyWkhaNk1XOXBZd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTVUMDc6MjQ6NDUuOTQyWiIsInB1ciI6ImJsb2Jfa2V5In19--4ab79b1b78fdab0fe7e6fb4377c9c0d26f82aeaa/logo.png\",\"tags\":[\"utility-token\"],\"extensions\":{}}],\"version\":{\"major\":0,\"minor\":3,\"patch\":3}}"
+{
+  "name": "Renec Token List",
+  "logoURI": "https://img-portal-prod.s3.amazonaws.com/uploads/image/attachment/33974/logo512.png",
+  "keywords": [
+    "renec",
+    "spl"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    },
+    "lp-token": {
+      "name": "lp-token",
+      "description": "Asset representing liquidity provider token"
+    },
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "nft": {
+      "name": "nft",
+      "description": "Non-fungible token"
+    },
+    "security-token": {
+      "name": "security-token",
+      "description": "Tokens that are used to gain access to an electronically restricted resource"
+    },
+    "utility-token": {
+      "name": "utility-token",
+      "description": "Tokens that are designed to be spent within a certain blockchain ecosystem e.g. most of the SPL-Tokens"
+    },
+    "tokenized-stock": {
+      "name": "tokenized-stock",
+      "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
+    }
+  },
+  "timestamp": "2021-03-03T19:57:21+0000",
+  "tokens": [
+    {
+      "chainId": 102,
+      "address": "vaXGtV2RhVvvigLDd77cZa7NR3omLLe9wStYiogGPs8",
+      "symbol": "PAN",
+      "name": "Pancake Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/vaXGtV2RhVvvigLDd77cZa7NR3omLLe9wStYiogGPs8/logo.png",
+      "tags": [
+        "currency"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 102,
+      "address": "jwXRUeahAbU2iaUSic3TdgbPEezcmejY7Fv5Savpg4w",
+      "symbol": "rUSDT",
+      "name": "Wrapped Tether USDT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/jwXRUeahAbU2iaUSic3TdgbPEezcmejY7Fv5Savpg4w/logo.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 102,
+      "address": "Fzyyy8SQ6K9NTJ7vCemZmxx4pexL8ePuuK7SkU8B7BhU",
+      "symbol": "rUSDC",
+      "name": "Wrapped USD Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/Fzyyy8SQ6K9NTJ7vCemZmxx4pexL8ePuuK7SkU8B7BhU/logo.svg",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 102,
+      "address": "MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR",
+      "symbol": "VNDR",
+      "name": "Vietnam Dong",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR/logo.svg",
+      "tags": [
+        "fiatcoin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 102,
+      "address": "FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7",
+      "symbol": "NGNR",
+      "name": "Nigeria Naira",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7/logo.svg",
+      "tags": [
+        "fiatcoin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 102,
+      "address": "6HXkLhS4khE9RzGpNytzhuaon3egDK5mjBesUeKzNjEw",
+      "symbol": "MYRR",
+      "name": "Malaysia Ringgit",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/6HXkLhS4khE9RzGpNytzhuaon3egDK5mjBesUeKzNjEw/logo.svg",
+      "tags": [
+        "fiatcoin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 102,
+      "address": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
+      "symbol": "reUSD",
+      "name": "reUSD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "2Cx8kN9R1Anoh8HgoPaPPRE5FjQhgKNNem7Z6nKAc1p8",
+      "symbol": "MemeFi",
+      "name": "Meme Finance",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/2Cx8kN9R1Anoh8HgoPaPPRE5FjQhgKNNem7Z6nKAc1p8/logo.png.jpg",
+      "tags": [
+        "community-token"
+      ],
+        "extensions": {
+        "discord": "https://discord.gg/gVCbUqNQrZ",
+        "twitter": "https://twitter.com/MemeFi01"
+		  }
+    },
+    {
+      "chainId": 101,
+      "address": "DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp",
+      "symbol": "VNLA",
+      "name": "VanillaSwap Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3",
+      "symbol": "reUSD",
+      "name": "reUSD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4",
+      "symbol": "reBTC",
+      "name": "reBTC",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png",
+      "tags": [
+        "wrapped-coin"
+      ],
+      "extensions": {}
+    },
+    {
+      "chainId": 101,
+      "address": "GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL",
+      "symbol": "reETH",
+      "name": "reETH",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
+      "tags": [
+        "wrapped-coin"
+      ],
+      "extensions": {}
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 3
+  }
+}
