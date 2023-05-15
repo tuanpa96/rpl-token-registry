@@ -236,6 +236,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3xmiBxpEStng5eX37pNzYrrTifxtVp4qLmJzU3uL1MtJ",
+      "name": "hihi",
+      "symbol": "hoho",
+      "decimals": 9,
+      "logoURI": null,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
