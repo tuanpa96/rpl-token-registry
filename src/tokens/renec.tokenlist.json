@@ -63,7 +63,8 @@
       "tags": [
         "currency"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -75,7 +76,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -87,7 +89,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -99,7 +102,8 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -111,7 +115,8 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -123,7 +128,8 @@
       "tags": [
         "fiatcoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 102,
@@ -135,7 +141,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -147,10 +154,10 @@
       "tags": [
         "community-token"
       ],
-        "extensions": {
+      "extensions": {
         "discord": "https://discord.gg/gVCbUqNQrZ",
         "twitter": "https://twitter.com/MemeFi01"
-		  }
+      }
     },
     {
       "chainId": 101,
@@ -162,7 +169,8 @@
       "tags": [
         "utility-token"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -174,7 +182,8 @@
       "tags": [
         "stablecoin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -186,7 +195,8 @@
       "tags": [
         "wrapped-coin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
     },
     {
       "chainId": 101,
@@ -198,7 +208,21 @@
       "tags": [
         "wrapped-coin"
       ],
-      "extensions": {}
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 102,
+      "address": "HEXH5buBAzwpDPrUbaXEwc4AE1qDa9grdxLkD37v1ZY9",
+      "name": "bitcoin",
+      "symbol": "BTC",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOVEpsTTNOcVlubDNhV2xyTld3eU9USTBjVGsyWkhaNk1XOXBZd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTVUMDc6NDA6MjUuOTc1WiIsInB1ciI6ImJsb2Jfa2V5In19--75268e1c6d6763352969f9fc3415e3599b89bcfb/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
