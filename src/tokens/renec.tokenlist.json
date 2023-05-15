@@ -249,6 +249,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3xmiBxpEStng5eX37pNzYrrTifxtVp4qLmJzU3uL1MtJ333",
+      "name": "hihiaa",
+      "symbol": "hohoaa",
+      "decimals": 9,
+      "logoURI": null,
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
