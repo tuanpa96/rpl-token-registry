@@ -327,6 +327,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "J3nJ9ScY4WVG9BuyQVxR4hfo61Ti1C3WkjEthrZmBcrh",
+      "name": "a",
+      "symbol": "a",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhiblppWlRkaGNISm9jRFoxZUhodGFYUnFhVE50WkdKdU9HUjZjUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMDY6MDY6MzguNzM2WiIsInB1ciI6ImJsb2Jfa2V5In19--d586337d527f358b651f7d4058dab94530a382af/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
