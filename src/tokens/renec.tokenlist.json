@@ -392,6 +392,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "CLz4nak1XzTamJzNxSHh885EG6fbNwPVKJytt3XK2kmx",
+      "name": "ax",
+      "symbol": "c",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhPWEo0TmpjMU9YSndNRzU0WldjMGIyUnRZemx4WVhVd05tMXRkUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMTE6MzE6MTUuODU5WiIsInB1ciI6ImJsb2Jfa2V5In19--a1cbc490378ae7ecec613c968ad7863f63598af6/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
