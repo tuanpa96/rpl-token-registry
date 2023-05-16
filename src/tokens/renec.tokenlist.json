@@ -340,6 +340,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "97ZxsovGj6d1EvdFg8Z5fYPAMJAJVZRoZHx43YTFKR8H",
+      "name": "hihi",
+      "symbol": "haha",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhNVFppTUd3NVlqVXdlSFpvTlc5d09YaHRiM1J4ZURFeFpub3dhUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMDc6MjY6MzkuMzEyWiIsInB1ciI6ImJsb2Jfa2V5In19--ac3733d21bbef1a54c790da0a381db675feb5014/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
