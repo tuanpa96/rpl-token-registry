@@ -366,6 +366,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7NL8ibZbVnNgg3Jcvs2xjJSWKUm45Mim2AnArHYQ2Jt5",
+      "name": "a",
+      "symbol": "a",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkVFIwTXpKelpEZHBPSFJxTVd4dk5XOXBZbmRwYURacmNYSndiQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpT1dsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1ocGRTNXFjR2NpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJocGRTNXFjR2NHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc5cGJXRm5aUzlxY0dWbkJqc0dWRG9SYzJWeWRtbGpaVjl1WVcxbE9ncHNiMk5oYkE9PSIsImV4cCI6IjIwMjMtMDUtMTZUMDc6MzQ6NTEuMDEwWiIsInB1ciI6ImJsb2Jfa2V5In19--98714115a58e3b086f0df868a71908ec365f774e/hiu.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
