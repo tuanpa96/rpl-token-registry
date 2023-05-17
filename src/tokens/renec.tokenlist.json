@@ -1,10 +1,7 @@
 {
   "name": "Renec Token List",
   "logoURI": "https://img-portal-prod.s3.amazonaws.com/uploads/image/attachment/33974/logo512.png",
-  "keywords": [
-    "renec",
-    "spl"
-  ],
+  "keywords": ["renec", "spl"],
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -60,11 +57,8 @@
       "name": "Pancake Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/vaXGtV2RhVvvigLDd77cZa7NR3omLLe9wStYiogGPs8/logo.png",
-      "tags": [
-        "currency"
-      ],
-      "extensions": {
-      }
+      "tags": ["currency"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -73,11 +67,8 @@
       "name": "Wrapped Tether USDT",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/jwXRUeahAbU2iaUSic3TdgbPEezcmejY7Fv5Savpg4w/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -86,11 +77,8 @@
       "name": "Wrapped USD Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/Fzyyy8SQ6K9NTJ7vCemZmxx4pexL8ePuuK7SkU8B7BhU/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -99,11 +87,8 @@
       "name": "Vietnam Dong",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -112,11 +97,8 @@
       "name": "Nigeria Naira",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -125,11 +107,8 @@
       "name": "Malaysia Ringgit",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/6HXkLhS4khE9RzGpNytzhuaon3egDK5mjBesUeKzNjEw/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -138,11 +117,8 @@
       "name": "reUSD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -151,9 +127,7 @@
       "name": "Meme Finance",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/2Cx8kN9R1Anoh8HgoPaPPRE5FjQhgKNNem7Z6nKAc1p8/logo.png.jpg",
-      "tags": [
-        "community-token"
-      ],
+      "tags": ["community-token"],
       "extensions": {
         "discord": "https://discord.gg/gVCbUqNQrZ",
         "twitter": "https://twitter.com/MemeFi01"
@@ -166,11 +140,8 @@
       "name": "VanillaSwap Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -179,11 +150,8 @@
       "name": "reUSD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -192,11 +160,8 @@
       "name": "reBTC",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png",
-      "tags": [
-        "wrapped-coin"
-      ],
-      "extensions": {
-      }
+      "tags": ["wrapped-coin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -205,11 +170,8 @@
       "name": "reETH",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
-      "tags": [
-        "wrapped-coin"
-      ],
-      "extensions": {
-      }
+      "tags": ["wrapped-coin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -218,11 +180,8 @@
       "symbol": "NEMO",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4rw39x7gr2cwedowo17n119isk?response-content-disposition=inline%3B%20filename%3D%22NemoSwap_Color_Final_favicon.png%22%3B%20filename%2A%3DUTF-8%27%27NemoSwap_Color_Final_favicon.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T085117Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=d100e4bbe68f7a8109e3e1a797bd0aa358e858e6224b31b9bbe33bcca225593e",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -231,50 +190,8 @@
       "symbol": "META",
       "decimals": 9,
       "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mcek7cfe9k8a3cjhniittf55ggw?response-content-disposition=inline%3B%20filename%3D%22Screenshot%202023-05-17%20at%2016.10.19.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202023-05-17%2520at%252016.10.19.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T091825Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=013749de8c7adf98bb4531585411562610db9868d73340b2c9913f91eb7ed21f",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "1xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_1",
-      "symbol": "PAT1",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhaWEZxYnpBMVlYZzBZWFU0WkhSd1pHVmhPWGg0TkhZMGJubDBNQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTg6MDA6NDguMjkwWiIsInB1ciI6ImJsb2Jfa2V5In19--aee099e89262f3a748604442139b23134bbadbf2/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "2xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_2",
-      "symbol": "PAT2",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOVGszWW1SdU4zTm5lR0kyZDJSaWVqWnBjbkJyZW1kaU9HY3hlUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTg6MDA6NDkuODQ4WiIsInB1ciI6ImJsb2Jfa2V5In19--aca2674af13d7d532fec5e3f3d9a9538a3ad2a7c/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "3xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_3",
-      "symbol": "PAT3",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOSGR0TTNrNU9IQnhhV1oxTlhwbk1EUndORFY0Y0dFNFozZzJlQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTg6MDA6NTEuMzI5WiIsInB1ciI6ImJsb2Jfa2V5In19--ce3c6c24923877610c0c14a2bbc17ff941eadece/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     }
   ],
   "version": {
