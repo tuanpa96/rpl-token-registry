@@ -1,10 +1,7 @@
 {
   "name": "Renec Token List",
   "logoURI": "https://img-portal-prod.s3.amazonaws.com/uploads/image/attachment/33974/logo512.png",
-  "keywords": [
-    "renec",
-    "spl"
-  ],
+  "keywords": ["renec", "spl"],
   "tags": {
     "stablecoin": {
       "name": "stablecoin",
@@ -60,11 +57,8 @@
       "name": "Pancake Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/vaXGtV2RhVvvigLDd77cZa7NR3omLLe9wStYiogGPs8/logo.png",
-      "tags": [
-        "currency"
-      ],
-      "extensions": {
-      }
+      "tags": ["currency"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -73,11 +67,8 @@
       "name": "Wrapped Tether USDT",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/jwXRUeahAbU2iaUSic3TdgbPEezcmejY7Fv5Savpg4w/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -86,11 +77,8 @@
       "name": "Wrapped USD Coin",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/Fzyyy8SQ6K9NTJ7vCemZmxx4pexL8ePuuK7SkU8B7BhU/logo.svg",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -99,11 +87,8 @@
       "name": "Vietnam Dong",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -112,11 +97,8 @@
       "name": "Nigeria Naira",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -125,11 +107,8 @@
       "name": "Malaysia Ringgit",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/6HXkLhS4khE9RzGpNytzhuaon3egDK5mjBesUeKzNjEw/logo.svg",
-      "tags": [
-        "fiatcoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["fiatcoin"],
+      "extensions": {}
     },
     {
       "chainId": 102,
@@ -138,11 +117,8 @@
       "name": "reUSD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -151,9 +127,7 @@
       "name": "Meme Finance",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/2Cx8kN9R1Anoh8HgoPaPPRE5FjQhgKNNem7Z6nKAc1p8/logo.png.jpg",
-      "tags": [
-        "community-token"
-      ],
+      "tags": ["community-token"],
       "extensions": {
         "discord": "https://discord.gg/gVCbUqNQrZ",
         "twitter": "https://twitter.com/MemeFi01"
@@ -166,11 +140,8 @@
       "name": "VanillaSwap Token",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -179,11 +150,8 @@
       "name": "reUSD",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-      }
+      "tags": ["stablecoin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -192,11 +160,8 @@
       "name": "reBTC",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwPQTMg3eMVpDTEE3daZDtGsBtNHBK3X47dbBJvXUzF4/logo.png",
-      "tags": [
-        "wrapped-coin"
-      ],
-      "extensions": {
-      }
+      "tags": ["wrapped-coin"],
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -205,206 +170,28 @@
       "name": "reETH",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
-      "tags": [
-        "wrapped-coin"
-      ],
-      "extensions": {
-      }
+      "tags": ["wrapped-coin"],
+      "extensions": {}
     },
     {
-      "chainId": 102,
-      "address": "HEXH5buBAzwpDPrUbaXEwc4AE1qDa9grdxLkD37v1ZY9",
-      "name": "bitcoin",
-      "symbol": "BTC",
+      "chainId": 101,
+      "address": "23gvCwffARjM6qwygoWieYNWtwGjZD5Zatf95tWWQ8P5",
+      "name": "NemoSwap",
+      "symbol": "NEMO",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOVEpsTTNOcVlubDNhV2xyTld3eU9USTBjVGsyWkhaNk1XOXBZd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTVUMDc6NDA6MjUuOTc1WiIsInB1ciI6ImJsb2Jfa2V5In19--75268e1c6d6763352969f9fc3415e3599b89bcfb/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4rw39x7gr2cwedowo17n119isk?response-content-disposition=inline%3B%20filename%3D%22NemoSwap_Color_Final_favicon.png%22%3B%20filename%2A%3DUTF-8%27%27NemoSwap_Color_Final_favicon.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T085117Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=d100e4bbe68f7a8109e3e1a797bd0aa358e858e6224b31b9bbe33bcca225593e",
+      "tags": ["utility-token"],
+      "extensions": {}
     },
     {
-      "chainId": 102,
-      "address": "1xAbcdefghijklmnopqrstuvwxyz",
-      "name": "Ricky King",
-      "symbol": "Ran",
+      "chainId": 101,
+      "address": "Co4mpNrpMtZVmcPPVAZcVmeasuLW5XZSo3HxL6fEcv4E",
+      "name": "Metachain",
+      "symbol": "META",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkWE13ZERSeU1YTnROM2RwWW1zNWNXcDRPV295WmpBNWJtaDRhZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMTVUMTE6NDM6MDAuNzY0WiIsInB1ciI6ImJsb2Jfa2V5In19--d94824ee3e12a0a087950991c9fe3c39301287d0/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "3xmiBxpEStng5eX37pNzYrrTifxtVp4qLmJzU3uL1MtJ",
-      "name": "hihi",
-      "symbol": "hoho",
-      "decimals": 9,
-      "logoURI": null,
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "3xmiBxpEStng5eX37pNzYrrTifxtVp4qLmJzU3uL1MtJaa",
-      "name": "hihia",
-      "symbol": "hohoâ",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhjbUpwYUc4MFl6WjJkWFEwWlRkd09XdDVkemM0TTJ3MmNtNXliQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTVUMTI6MDg6NTQuNjg4WiIsInB1ciI6ImJsb2Jfa2V5In19--c833532b6c8979bd1ddcca32560d441eaa1840f2/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "EiFJ5dUAGrLQc57rBRsrf6xThvdvt1xjPRrG7uAvNV2w",
-      "name": "hehe",
-      "symbol": "haha",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhNM0UxYm1GbU5XSTRObUU0ZFcxdFl6TXdialpoWVdaNGJXRmpid1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTVUMTU6MTI6MjYuMTUzWiIsInB1ciI6ImJsb2Jfa2V5In19--bc4df3ee78aac27943d36741c899c6b16bf356b2/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "DJvv6Yt2pef3uVvfysj9m5UfbNN2CKPMvA3QLTk3Qf8Q",
-      "name": "hehe",
-      "symbol": "haha",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhjR0Y2ZUc0d2NEQnNablp1TW5oamJubHRlbTFsZFhSbGNXSnNhd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTVUMTc6MTQ6NDIuMzk0WiIsInB1ciI6ImJsb2Jfa2V5In19--b31a7fc3192d5a7682d8ed5d7dbd604d5ffe8d21/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "1xAbcdefghijklmnopqrstuvwxyz",
-      "name": "Shena Barr",
-      "symbol": "Geo",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhhemgyYm14NWNHSnpjakkyYXpRMU16QmhNbVF5WVcxc2RUUm1jUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMTZUMDI6NTQ6MTUuODA0WiIsInB1ciI6ImJsb2Jfa2V5In19--b4131986737a36d37b71a70d702ad0c0867ad2f9/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "2xAbcdefghijklmnopqrstuvwxyz",
-      "name": "Dogcoin hehe",
-      "symbol": "DOGE",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhjV0UyZW5nMU9HWnJibWxxWTJremIzWnVkREkwWlRFNU1EbHNNQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMTZUMDM6NTA6NTguNTAyWiIsInB1ciI6ImJsb2Jfa2V5In19--9ebfa4457b95c7b44216db78e373ee175f9a02b9/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "J3nJ9ScY4WVG9BuyQVxR4hfo61Ti1C3WkjEthrZmBcrh",
-      "name": "a",
-      "symbol": "a",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhiblppWlRkaGNISm9jRFoxZUhodGFYUnFhVE50WkdKdU9HUjZjUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMDY6MDY6MzguNzM2WiIsInB1ciI6ImJsb2Jfa2V5In19--d586337d527f358b651f7d4058dab94530a382af/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "97ZxsovGj6d1EvdFg8Z5fYPAMJAJVZRoZHx43YTFKR8H",
-      "name": "hihi",
-      "symbol": "haha",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhNVFppTUd3NVlqVXdlSFpvTlc5d09YaHRiM1J4ZURFeFpub3dhUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMDc6MjY6MzkuMzEyWiIsInB1ciI6ImJsb2Jfa2V5In19--ac3733d21bbef1a54c790da0a381db675feb5014/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "TSnrDjaR7sCD72y1i8qEywELLFou3ENSodFKrePKCNN",
-      "name": "pepe",
-      "symbol": "hiha",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhhVE5wTm1nd04yOWpOSEU1YUhkeU1qVm5NV3BwYTJabVptRnJjd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMDc6MzI6NDMuMDEyWiIsInB1ciI6ImJsb2Jfa2V5In19--d0e206cbd2001bf8bcb20ac70d12f71aacf8018e/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "7NL8ibZbVnNgg3Jcvs2xjJSWKUm45Mim2AnArHYQ2Jt5",
-      "name": "a",
-      "symbol": "a",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkVFIwTXpKelpEZHBPSFJxTVd4dk5XOXBZbmRwYURacmNYSndiQVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpT1dsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1ocGRTNXFjR2NpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSjJocGRTNXFjR2NHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc5cGJXRm5aUzlxY0dWbkJqc0dWRG9SYzJWeWRtbGpaVjl1WVcxbE9ncHNiMk5oYkE9PSIsImV4cCI6IjIwMjMtMDUtMTZUMDc6MzQ6NTEuMDEwWiIsInB1ciI6ImJsb2Jfa2V5In19--98714115a58e3b086f0df868a71908ec365f774e/hiu.jpg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "EFtyLWeVzLTmToD2CUsapkeRSXMs2HGxECVoABSfd9ar",
-      "name": "aaa",
-      "symbol": "VNDRa",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhNbTloZGpOeGVHOHpZVFpuTVdoemVtRnBhams0TkhvNU9HbzNOUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMDg6NDg6MzkuODUxWiIsInB1ciI6ImJsb2Jfa2V5In19--a70e3df702b4166580ac0e0e8c9b66760769da37/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "CLz4nak1XzTamJzNxSHh885EG6fbNwPVKJytt3XK2kmx",
-      "name": "ax",
-      "symbol": "c",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhPWEo0TmpjMU9YSndNRzU0WldjMGIyUnRZemx4WVhVd05tMXRkUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0tiRzlqWVd3PSIsImV4cCI6IjIwMjMtMDUtMTZUMTE6MzE6MTUuODU5WiIsInB1ciI6ImJsb2Jfa2V5In19--a1cbc490378ae7ecec613c968ad7863f63598af6/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "7XKdiiUbL8a8UY8e3QUWDviNQN43DefNxNXZEgZBJVFy",
-      "name": "hihi",
-      "symbol": "hoho",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOSEJ3ZVd4b2FXRXlhbUoxTTJKd01IWTNiV040WkhWemRHd3hiUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GMkxtcHdaeUk3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWVhZdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lPYVcxaFoyVXZjRzVuQmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjoiMjAyMy0wNS0xN1QwNDo0MzoyMi44MjFaIiwicHVyIjoiYmxvYl9rZXkifX0=--756fd4f706518af38bd017ce167a9b93956b93c3/av.jpg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mcek7cfe9k8a3cjhniittf55ggw?response-content-disposition=inline%3B%20filename%3D%22Screenshot%202023-05-17%20at%2016.10.19.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202023-05-17%2520at%252016.10.19.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T091825Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=013749de8c7adf98bb4531585411562610db9868d73340b2c9913f91eb7ed21f",
+      "tags": ["utility-token"],
+      "extensions": {}
     }
   ],
   "version": {
