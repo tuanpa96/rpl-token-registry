@@ -431,6 +431,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3xmiBxpEStng5eX37pNzYrrTifxtVp4qLmJzU3uL1MtJ333",
+      "name": "meme",
+      "symbol": "hohoa",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhPSEp1ZFRFemEyNHpjRzU1YXpKcmRtbzFabVJwZEhGeWJXcHVjUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpUVdsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1KcGRHTnZhVzR1Y0c1bklqc2dabWxzWlc1aGJXVXFQVlZVUmkwNEp5ZGlhWFJqYjJsdUxuQnVad1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMM0J1WndZN0JsUTZFWE5sY25acFkyVmZibUZ0WlRvS2JHOWpZV3c9IiwiZXhwIjoiMjAyMy0wNS0xOFQxMjoxNDoyNC45OTlaIiwicHVyIjoiYmxvYl9rZXkifX0=--2ee38d961934887b20b77e3e2b72cbf961a154ce/bitcoin.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
