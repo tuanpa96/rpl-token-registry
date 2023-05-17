@@ -262,45 +262,6 @@
       ],
       "extensions": {
       }
-    },
-    {
-      "chainId": 102,
-      "address": "1xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_1",
-      "symbol": "PAT1",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhaSFIyT1djeWNUZHhZM053TkRVMGRUSTBkR2syZW1VeFkyczFkZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTk6MzE6MTYuODIxWiIsInB1ciI6ImJsb2Jfa2V5In19--ba1aba387f88c81af0319dde7f104984c639947b/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "2xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_2",
-      "symbol": "PAT2",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhNbk4xY1RZMlpXZDJZWE42TVdzNE5qQnNhakZ6TVhrMk1HSjJNd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTk6MzM6NTIuMzY5WiIsInB1ciI6ImJsb2Jfa2V5In19--eaeb4067ef7764ab79abe36e6147ed1c3c0c3caf/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
-    },
-    {
-      "chainId": 102,
-      "address": "3xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_3",
-      "symbol": "PAT3",
-      "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhNMnRoZW1GblluSnJNVFUxYkhabVkyd3plSFo1YUhkcGVERnJjUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTk6MzM6NTMuNzI5WiIsInB1ciI6ImJsb2Jfa2V5In19--a5db392357727ce501982c6cedd2ba95465fa175/logo.png",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-      }
     }
   ],
   "version": {
