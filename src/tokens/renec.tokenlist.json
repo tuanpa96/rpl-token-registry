@@ -405,6 +405,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "7XKdiiUbL8a8UY8e3QUWDviNQN43DefNxNXZEgZBJVFy",
+      "name": "hihi",
+      "symbol": "hoho",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOSEJ3ZVd4b2FXRXlhbUoxTTJKd01IWTNiV040WkhWemRHd3hiUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GMkxtcHdaeUk3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWVhZdWFuQm5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lPYVcxaFoyVXZjRzVuQmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjoiMjAyMy0wNS0xN1QwNDo0MzoyMi44MjFaIiwicHVyIjoiYmxvYl9rZXkifX0=--756fd4f706518af38bd017ce167a9b93956b93c3/av.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
