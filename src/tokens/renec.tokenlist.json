@@ -217,7 +217,7 @@
       "name": "NemoSwap",
       "symbol": "NEMO",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4rw39x7gr2cwedowo17n119isk?response-content-disposition=inline%3B%20filename%3D%22NemoSwap_Color_Final_favicon.png%22%3B%20filename%2A%3DUTF-8%27%27NemoSwap_Color_Final_favicon.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T085117Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=d100e4bbe68f7a8109e3e1a797bd0aa358e858e6224b31b9bbe33bcca225593e",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4rw39x7gr2cwedowo17n119isk",
       "tags": [
         "utility-token"
       ],
@@ -230,7 +230,7 @@
       "name": "Metachain",
       "symbol": "META",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mcek7cfe9k8a3cjhniittf55ggw?response-content-disposition=inline%3B%20filename%3D%22Screenshot%202023-05-17%20at%2016.10.19.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202023-05-17%2520at%252016.10.19.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T091825Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=013749de8c7adf98bb4531585411562610db9868d73340b2c9913f91eb7ed21f",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6mcek7cfe9k8a3cjhniittf55ggw",
       "tags": [
         "utility-token"
       ],
@@ -243,7 +243,7 @@
       "name": "C3X Token",
       "symbol": "CEX",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lvqer8cebn0aq049thbziz3tst0y?response-content-disposition=inline%3B%20filename%3D%22bash.jpeg%22%3B%20filename%2A%3DUTF-8%27%27bash.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T175143Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=82f635815358f0fe8fc1694fc1427d2f48ab4601ca8f4dd9ae9bd3572d9f4f8d",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lvqer8cebn0aq049thbziz3tst0y",
       "tags": [
         "utility-token"
       ],
@@ -256,7 +256,7 @@
       "name": "JackSparrow",
       "symbol": "Arrow",
       "decimals": 9,
-      "logoURI": "https://easytokenbucket.s3.amazonaws.com/curac9o70on1ecibtilopdfirc0s?response-content-disposition=inline%3B%20filename%3D%22arrow.png%22%3B%20filename%2A%3DUTF-8%27%27arrow.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3STY5WFHE5WTOPML%2F20230517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230517T175823Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=e47e722517048044032e32d2541afaf21729c66a8d93e95894dd57604c6c0c72",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/curac9o70on1ecibtilopdfirc0s",
       "tags": [
         "utility-token"
       ],
@@ -264,12 +264,12 @@
       }
     },
     {
-      "chainId": 102,
-      "address": "1xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_1",
-      "symbol": "PAT1",
+      "chainId": 101,
+      "address": "HvLdkUWTNakJ5iey3RjAuFPQEtvsR1pE391vLtwcTjhN",
+      "name": "Banh Mi",
+      "symbol": "BaMi",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhPVGwyYUd4Mk1USTViblpwY0hKck9EWm1OM1J6TTJKemFtVTNjd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTk6NDI6MTcuNDg1WiIsInB1ciI6ImJsb2Jfa2V5In19--fddccbba165f15d18b4786ade7e9c08b5e87866f/logo.png",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/laxiqtes9fg8dzk5cjo9dx0saehf",
       "tags": [
         "utility-token"
       ],
@@ -277,12 +277,12 @@
       }
     },
     {
-      "chainId": 102,
-      "address": "3xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_3",
-      "symbol": "PAT3",
+      "chainId": 101,
+      "address": "3k4t8yC48T3hUmLeuGenEfcecBCfWwPj4wDhbuBBsnb1",
+      "name": "Remitano",
+      "symbol": "REM",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhjV28wZVd0eU1HYzVZV1J5YW1obWNqZHlhR3RvYURoNWJEQjZOZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTk6NDI6MjAuMzEwWiIsInB1ciI6ImJsb2Jfa2V5In19--975f7e88ec67dfb648f6aee0e044dfd503e89387/logo.png",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/60069crvhljctc3opewe4hymabte",
       "tags": [
         "utility-token"
       ],
@@ -290,12 +290,2287 @@
       }
     },
     {
-      "chainId": 102,
-      "address": "4xAbcdefghijklmnopqrstuvwxyz",
-      "name": "PAT_4",
-      "symbol": "PAT4",
+      "chainId": 101,
+      "address": "Agrd4dUFLmMkXzZkT5V1HvQq7h4NntHUKKxneHRwqDC",
+      "name": "PIZZA",
+      "symbol": "PIZZA",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhORFZ2YW1ScVpIbHFjVFY0WTNVM1lYZHljakJwY0dObmVUWmxPUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjMtMDUtMThUMTk6NDI6MzMuMDkxWiIsInB1ciI6ImJsb2Jfa2V5In19--38a1ebb5d0dd6bfb94d163e69ebd20fd220cceee/logo.png",
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/s4eqsize3zjkm55s98vzhrvd8ki5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EY7bx9NpoiUUxntsf4LQuNWMJ8x6zfYgd1N2DsG1EtxA",
+      "name": "Turtle Ninja",
+      "symbol": "NINJA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ukxlthscpq40g4zsu1njl6sk9ykw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9tkDVwnMUH9qHFtz42FRosuZEmSQxtJBTYQHo38XqLvr",
+      "name": " king of memes",
+      "symbol": "MEME",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lqrqchohb86jgvk9oriub0jatigy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "91xiRwDnBrHxmXzoskWv6H7NXCnzRmm7sRmKvkLBii3d",
+      "name": "dFantasy",
+      "symbol": "DFAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0op213fhuwvsa1vo273x3pd6w1fs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GoXBZFLe7UhJp3U9F2fuWeXrA4nVG3ZbHJa7AwT3sctj",
+      "name": "PEPE ON MONEY ",
+      "symbol": "MPEP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wxa4dl6iz9n3gdugzg856jb3lk2i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8bpaNebxWEHnNmRq8QMXs7kAYkKUMA89MAHEhtkiwi7k",
+      "name": "Jawa",
+      "symbol": "JAWA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oul3iq4t5m05e2js2336s38qzuxb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BKU82VVraxTmPeBE2FrJcFJBZT8J22yi6GgVho2GEv6S",
+      "name": "vausa kingdom",
+      "symbol": "VsK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/e3pn9ij97hqb4fl2dr5is5p1ej5t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "55xwFBuWupD3AoqckcBmic2B6frDJzYUhJ3iEwXwXgdy",
+      "name": "GAREN",
+      "symbol": "GAR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rvo09yq13nfn890srxgyvvzmo538",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C3rdn387kAwYPD9fLsWFYr47KSdmJXmvqQy96ToMS3P7",
+      "name": "Ghost Coin",
+      "symbol": "GSTC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1yaqts1wsrl3l7owt9hq7bp74dbm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FHhdCcQhZpP3gm17v7B6UP1hpD78uy5KFCkrH9yV4ezq",
+      "name": "Dollar Coin",
+      "symbol": "DLCO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/icw15s02x49lmczn8wyxgxwgio99",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CMy2tgd6Lrczb1XAxHVqSbTZ7HedoJRkS86a8UAroL5m",
+      "name": "Panda Coin",
+      "symbol": "PANDA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ca5ilnxi7xhzdiinybrfijmhif6z",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4imnhY566Ds1xWtsenUPs5V4Q6rgc2dNx7q8i1diW8v2",
+      "name": "UPBO Forever",
+      "symbol": "UPBO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xn5lxifxq82lnlq4d8kcgfyepvtv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Bi7zp2gfb53vF5DsD7x43juznx6NA3H4kmTStA3E1MrW",
+      "name": "Dizzy Token",
+      "symbol": "DiZZY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5s5tw6b3roikoibjewqrq6uwh3fw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7upNdAfxcctzpkzvod36y2ExwXdPwXYWY72u5xh2Absg",
+      "name": "Virtual Tech Systems coin",
+      "symbol": "VTSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hsb1sq7i2bkyxe7xy2ipy3sdfrwq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FmHf1c3ns4WD7HyUpzDRzmNgAKQeHAEjxoAMiNBZv9H2",
+      "name": "Crypto Investment Insurance",
+      "symbol": "CII",
+      "decimals": 1,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fwwe5rcot7n0b9r7wrrisnu03ah4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7tT4h6WDGzWqSqWNS9gHgpaLxyBANu1ydwDhdc2TqXB7",
+      "name": "Babson DAO",
+      "symbol": "BDAO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ac1lxerd0o5q9ay9qbmao6c2vry5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3jhnAy4xqPLRq63Wpdc74kp2BAx2HQBTA5akEvfbSEwp",
+      "name": "Wolfverine",
+      "symbol": "WOLF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jppqbci4552a4q6zsyk2axk9ooyb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DGLK5cezycv1h9yvwwZxs7bhjfh497SumVqKhkQZR4ev",
+      "name": "Coffee",
+      "symbol": "CF",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5t4zh4dpn3egiu0lclt7irugi22c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2j1tT3XV3DxEPgueZHKWUdya5DtZW1bfcKzxMrUYcyyx",
+      "name": "Duck",
+      "symbol": "DUCK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5il9935j0mr8wi4ec21vxbx65ed",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AoyGzve9cSs64HCUnvyZtUwcqY8hnHWCsQSAE7Rk1Dcx",
+      "name": "Blog Nguyen Nam Thang",
+      "symbol": "BNNT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85xz0xovd53a3vfazk6msko25cns",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2m93sKZpeMKwo8axqKRh67jTRWBSn7Vvx7nwRBY6t6SV",
+      "name": "Love",
+      "symbol": "LOVE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/78cd0zbj6tebg7sqpg5eo9fkn61q",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "84sjtkmcetbAxzMiKEaGnapzCfR956jJgMcgPXVVRw3m",
+      "name": "Suon Bi Cha",
+      "symbol": "SBC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dv7c1eo5nfd7asxejdhybyoqvv7o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4dzRUWQJhtcPJBkTqn6bV1tbk8zJKJbpBqYLmauCnYgK",
+      "name": "Loofcoin",
+      "symbol": "LFC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/05433v6xdyubzig11fol7z1f3h0g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HscSdWFb6YgW8Y7s4Nf7myPnkTy3YPjARNEK7tWF58YQ",
+      "name": "TRINITY",
+      "symbol": "TRI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9wkyfu9e5ehpjwl7r9luf327elwl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FcahgbwLAs2wz5RApFXYMTxU7CBcLD9yWUASHrvxhw74",
+      "name": "BAE",
+      "symbol": "BABY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/xz8juu6kpnt9di56hop2heholukt",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7z96S1iMAiXFMzfsZv6f5HTgZkfbM4G3aY1pLtmDijC7",
+      "name": "Banker Club",
+      "symbol": "BAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6i6p4225t5nkkavylhzqvu44nuiu",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6sRh7v1FbF8T55adsd25p7aXzKti625hawQ6JDPmNNzx",
+      "name": "KENKOIN ",
+      "symbol": "KENK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t574olykilxxpxwx0b1r8ivo4noa",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BxGCAZLBGTLAjen51CFdf17vecFdwupGh4J6HSWTp9SH",
+      "name": "Youplex",
+      "symbol": "YPX",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwqttoqo1u7pmvc11jbaankqckws",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6FomBrKS3w3n6EHSxUKiakRsfNmux29DiTwJT39ABf51",
+      "name": "STROLLERS",
+      "symbol": "STR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/fa1kp8v1d8ak3wx4h8fcezqmj6up",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4TdUWduRcBwPxkL4aR4AGfrd5e4hs4KaXa2FtvAKsTQ1",
+      "name": "Bowlism Outlaw",
+      "symbol": "BOWL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lezdfbpl751we3oezlrlfe5vn4c6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8A37pnjcbFhLZ9hctcwhB7Ggyraor3LJDtNLcxCjHW4N",
+      "name": "MEOW MEOW COIN",
+      "symbol": "MEO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/eeyu62ma7nljh8efu2pakru6a87w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AEvLwFHjfcKnxE4biCEVuRnXmhmgWkDXgAUeMatSDWiW",
+      "name": "Debis",
+      "symbol": "DBS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ucjl1kkvq0o4f09y8gsf5wtz2j1c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H5g5DL6YBbCeXKRZwdLnTuZAfKWyvyNFgZrQggqTHegq",
+      "name": "TV Transport",
+      "symbol": "TVT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1be401juui0unwkd9wfa2da2b4eo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6KQXhCMx4ZF5HAaMt2x98p3uvPiDQxiGKwhZhNF6P8aL",
+      "name": "VYVY",
+      "symbol": "VEE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l7u19c2ts0s6e4smmtn236jk5gqf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JE36sKeVSBY221TyPAtiq71uzGdWGtY64UBxUqj9ZgNW",
+      "name": "NDCT Foundation Coin",
+      "symbol": "NDCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3fnssldw1rkk4f36prl45hmmjkix",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HQkuwTmSX1eJ572sWmQGuGx57i3vDHvVxwbBUpGBBDhF",
+      "name": "HayRadeQua",
+      "symbol": "rade",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w5ypfvecy2vktl9mj7b8qmkmjaob",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2tckDnaR9qhE2i24pAu4kpNmw7mLQbJqVA7u42A7HEVN",
+      "name": "MASTERLINKS IMPA",
+      "symbol": "RIMPA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lzpgygz4mdsqbh6m9g35rlwc2z3k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Dto37b9WTUU9iGekwjmvXPgJrFh3kzDosdgr2uYoNUZ2",
+      "name": "Mely",
+      "symbol": "mely",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qtf54gkq095e6rw7p7m2qrep7eqq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HkUYz5QQxmujKC1rjGNQTR7KQDNeDJFa9UDQkDRV2E9U",
+      "name": "Ticket VIP",
+      "symbol": "VIPP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1q6y3k2zi6oez9ae2r8lp8vc28td",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "38h9f8gXFw1bXNa9LTcp9D9f51u5P53eTVetowxbLjQt",
+      "name": "Ticket",
+      "symbol": "CROWN",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cz2gozia6b31uikjg1avkoopstj1",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Cvsfsi3vyT6ZzZpDTYtM8prLmB7J3d5xZzGufLqsbzVB",
+      "name": "Tennis Coin",
+      "symbol": "TNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5p26zm5rqcz0pbidjiuzad9qfxzy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FwBZc4Ymm5GJMJjpqqDao1sTYgCYP5ZoBTZq5qdy5kK7",
+      "name": "Sports Network Cryptocurrency",
+      "symbol": "SNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rpoas1mlitjtmw71z615p2dhe1c9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "E4uRL9PA3aYZTfcodr265xv19C7eSc5Rctgh4xRFUa5Z",
+      "name": "VICOIN",
+      "symbol": "VIIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ud7lhtqg41303105ns8ohwfiulbx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Gs7jPkmjPKGhUfpYw9sAUKU6QuukfnCBb9JjzJikVAaF",
+      "name": "rePEPE",
+      "symbol": "rPepe",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lptin8fdltrxym7f6lb4fezej7wq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4dD9gK8m335rBV58sx1bqDThkYURNjpniGrrhWmDEZyp",
+      "name": "Lady",
+      "symbol": "Lady",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/teylgbh7gw0q51c5rn53ddhw3qq9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2VdAN4qPmZyG2sD1oLs87JLGSwtWtKeco4wM7oCFVdRM",
+      "name": "MASTERLINK COFFEE",
+      "symbol": "MLCO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l5qs2nh323ey91a02aoxtn88hp1y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4CjFtjGovCoeGUiLyrS3SR7YiNkL8VNU6uucnhozZD9Z",
+      "name": "Cho Co Coin",
+      "symbol": "ChoCo",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/pbzex55e2cu1contdkfh44h8nl5i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5sk5BFJk6JcbmBBX1ZWLMz4EwXp9Rn3xkudhAK9Xmdjr",
+      "name": "RENEC MONEY",
+      "symbol": "RENM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u3kgrp3c1b3vu6hgp0uooaobn26d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5jvn2pBtYL1LuJh8SywX7NqT1dQfe9FsJ64zx9Q84R3x",
+      "name": "CR7 Token",
+      "symbol": "CRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wv32qwzglookxm36mmyxr5v1jblm",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9ritC4taqC5RQxwNrZGT73nXfJr9xKfPDeyYNm1Pp3zK",
+      "name": "PEDOGZ",
+      "symbol": "PDZ",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/89mz9dagv42z2v4w885lo4tsj0p0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Emh29B2oKkfjjuniZ3yEDoYSqa72QBb49WMBQV6EzPN9",
+      "name": "MAZI DOGE",
+      "symbol": "MDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9h1cahbrzqzonietfqxz64unxgnw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5ij77hmEoSvm8Yy8dkL5jLnTTTLwhiQjLgfeCtSiWTAF",
+      "name": "TIREC",
+      "symbol": "TRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nwyelqoxfw4har9wc124y223dlr4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CTgp6ALtEUDG7S1PfRDT3xDcqzvd847ySESzzakYPCp5",
+      "name": "Graphcai ",
+      "symbol": "GPC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ambq04seuxxt9c2w0egvnpxis00v",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2f1wDDxWx9dJF7C1ancokk6rju6LgmZFRh4Lb6MX4yRn",
+      "name": "SUYA COIN",
+      "symbol": "SUYA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ysagbibtx3t7ixltpj8cp6zqp4zn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Dtgtdpb49buvY5m1DYFFdB2EUDNtX1SrTBw6gkEQkXAV",
+      "name": "BinhMyco",
+      "symbol": "BMC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jqnvf83i5qpnpled981zcddhls9h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GGtSEJ2dxrnUwZTqKuWhHBYZieLG65KfDeWPKJmmAWv1",
+      "name": "LemonadeLoot",
+      "symbol": "LML",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hfvc38xn004lintp69u82qwmgm8f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Af6ajLhYwnP9x8pc8ESZoqsqAAQ3V9W3u6tTjjkwU1bg",
+      "name": "MATERLINKS IMPA",
+      "symbol": "IMPA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t3ogw05yfue12lyn7y6bqe1agezw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DLocpjyRrc1V62jjKDQVdwT53nc7UQANm99MaWvGPhue",
+      "name": "NGHE BANK",
+      "symbol": "NBANK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u30sqb8spkjefqny42nt85vc5p1y",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "21MfXx4gBzMXd1ZeVjoDCcPYiNC4uAafSE6CJVTdaQzR",
+      "name": "Mcoin",
+      "symbol": "MCN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1zcjqf4y76ffoqx3vr1m7sfjny51",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9VdT8WhdDQjhg7FEz8guELuibTPd3jGq1A9hJuCvnxiR",
+      "name": "Memeverse",
+      "symbol": "MV",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5cn80zqlkh0wqj0ernyy983ueg89",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "F9SMs8FC4NWKozeL7FoZvdKW8Zk3j8VTPT8M1osDAupE",
+      "name": "MULTILEVEL CRYPTONETWORK",
+      "symbol": "MCNET",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/p53809n5ylac37xmvnlefmfe2kn0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DsSfC7zi6wUcwbQRngLURSD8EyV4XrR3xcK4K4qmngmh",
+      "name": "Tich",
+      "symbol": "TIC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0dp2g4097xx3y8oyn8u9ttzaqab7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2PQaNhNDCwKxgEzpzzP3UC9Xu5Zee6KDW9oGDDKRTLDU",
+      "name": "DOCTOR",
+      "symbol": "DOC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uheiu1syiog5z2mrpmu0v09w3be3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "E6wiRm7uw5EhtVxhpbMHKJ4Rvqi49hSsq3de5qUToaZB",
+      "name": "DigitalPro CryptoNetwork",
+      "symbol": "Dgpro",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/q4sjho99hu71sqhno8arifh21x02",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7G3oDnJ9jnB4tw6StHu666UopzrxpbgeFpuSdywNWVBj",
+      "name": "Grab Dieu Cay",
+      "symbol": "AGRAB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gv27okums7o0ilgmre94oufnb7h8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "31tbWtFTDDrRqNciYzSFSUuKbHn87RiPZhTJrEApq9A9",
+      "name": "kind",
+      "symbol": "KID",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/y3r8bgqru6tpybuz2xdgn2q9thgr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CUgCNnZEu474jyZrhXtyoM3mjAGcTYraGxCmhjbPoeNS",
+      "name": "SolarBearRenec",
+      "symbol": "SLR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wwc07puoayyj5r3g22gf3giupvyx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "32G8dLyxtigyb7JXGdsScBQHPPNPucVziWafgaewcDj3",
+      "name": "MEOMEO",
+      "symbol": "MEOS",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ucjq4lsvbgncyi3ayargikjw6nyw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AgSh2E2ZeUPxhKEZ9qiwowuotp1s6VVKSAXdCBZjJJGE",
+      "name": "KaidenID",
+      "symbol": "KAIID",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/bn3dlgo1a43zld3j3z4e05anygle",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EGvhvyKfUZycyed1kGgkRDzqUL9fd7yxXjF2HTQoDGEk",
+      "name": "RENEC inu",
+      "symbol": "RNCI",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/12vnz27huwf207kt6s0ol0mxnonj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4eoZHd1KBEeKPRAoFE2KpKqPe1W6uC2hp6vjXKNztEjA",
+      "name": "MoonCatCoin",
+      "symbol": "MCC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nzothcxj8ew7d9hmnlxihsusjwf4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4429h87CuYefsSByt6Ko9sUdGE93mrrZyq64ukHp6HpB",
+      "name": "RocketDoggo",
+      "symbol": "RDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/chrficnqklke2ftouox8rhl1t46n",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2iwRnubAjXtAn7NschM9F6hVhLHSng3sfbrr6TqVFny1",
+      "name": "PandaPump",
+      "symbol": "PMP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ape9yw5hb74pxqu3pbmy2q6d5vwb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GcGcMU8TgbyuRJEGx2TewVsg4y9yyGtUtsLedeStqwHq",
+      "name": "ShibaRenec",
+      "symbol": "SBR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x0yvh5h1thl92gehy7mx8sgt1dcd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BUW8MABJtCnCpVtC2kuWp9dMGvUrc3kJVRk6tqMYeKLW",
+      "name": "FrogeCoin",
+      "symbol": "FROGE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/v72brvzkjdvuhp8wanasf9akszvn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FWdsoLdjHkpLCRaXnr7YeVRbxCB99K42qMNtm4dGkuJf",
+      "name": "esst ",
+      "symbol": "SST",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wvkovb0s7rvvgjbrnxct4m8ahtc5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CQQ8qeFrdEopb8xjDFXQ1pyKQhohsWHc9xubYZtPR4oK",
+      "name": "INC",
+      "symbol": "INC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6f5y4uavfv2ocl63i0zsne6n8d0w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2zHuvv2qyoPS2sEsY444nvUxQTYMPcsMsMNd4YkzKWNg",
+      "name": "SASDOG",
+      "symbol": "SDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/asnwjlq6c1l5l281ouq3rolqxfqw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HnkGvpm5ntg4JEh3cUhBuWVMtmYNLkqx4iWX3uBFWee",
+      "name": "TZ Renec minners",
+      "symbol": "TZRM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/w1ed5tzp0dmztd4b3skn8gb4cv5r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5nPogH3C1j1BGSopMuLfHcd2qndwV453cSPSBsLFpAQt",
+      "name": "Strawberry",
+      "symbol": "rSB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qd54elzjxpi5uwsij4uwd57scuex",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CdivUSfH3PHj4X98j4xXEEVdt73DkUhfxRnLrtpP2siS",
+      "name": "oracle",
+      "symbol": "ORC",
+      "decimals": 7,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/rd8iw9grnn2y95zim5nhark4fm5b",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BvD2FciHtkWeJdCzN3izStyqDwcv2rmsYbfWoYmjQtCg",
+      "name": "SmaskMoney game",
+      "symbol": "SMG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lctpiclj0ojrere48vu96pkcsxie",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8p8gSJ64Sak82C5VRb967MUC4rx1ygjWsMFkEDpchTYt",
+      "name": "DUC Foundation token",
+      "symbol": "DUC",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o5zigg7roxk0283cn5b081zq5ri7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2Ki8iV87EqduUAS5sRCdyox9s6YB9JteRYQSRb17nvw6",
+      "name": "MOON",
+      "symbol": "MOON",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oqnsqlnxr4w00slfj9st62uiteax",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9tqgjb3654VQ3KNne56ghh2S83x1gqzZfLXaZ7tQwKV",
+      "name": "Wrapped DOGESHIBA",
+      "symbol": "WDOSH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2dteufwfq7bgmmtjle9cm7i0qat9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HPtwNYuzJZBXzqkGqmgags9oxWH88W5VNuW4grVSr7Uz",
+      "name": "Tanpt",
+      "symbol": "PTT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a54mgo208bkwgf8tro6aszoof26p",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GU4Cdg26PFU9EK2uDJ2vvSvTjQnNPDfuD56wkiR37H2o",
+      "name": "Mooncoin",
+      "symbol": "MOONC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jrvptm4qk5zqpjbo4chksxxtv7ds",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "JCVHzMtP6peQkTmoW46YNHyKQuoushF4WUhapphLdnSr",
+      "name": "happy bird",
+      "symbol": "BIRD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jgkcjv5w32z6i3hdzswvr9vufa4m",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C8jRcLpa1kumEg9p49EVKkPWuYz8EgD5XWmCXG4r13Jv",
+      "name": "CloudNec",
+      "symbol": "CDC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l4fy3b1xjx1ttj6d78igs6wqapew",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2pfRAWrVVm9mLa8TbzbvgNPKwsPbcDHUyQJZmYfDLQnd",
+      "name": "AEPay Coin",
+      "symbol": "AE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dfg9ltwkj965ucj0tloq5a68j7p8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H7y4ADadmfBLDDaJmDY4LF81yPaUp69oYTr9UEN1KywV",
+      "name": "Arimis",
+      "symbol": "ARM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/85faczqmozlubda52gxiojuygf4d",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6iCVSz4YowpFAxxP76H6vU7tLWgFQ7Ri8UVzptSwiLkm",
+      "name": "CRYSTAL ROSE",
+      "symbol": "CROSE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/j58tumbkh6421rp5wyn107xt361h",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EBskFKr5Mw3Wk4DFEUFP1SLr9ofHuHH593cFYncRgx3S",
+      "name": "ROSE",
+      "symbol": "AK47",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/58w7oul5q6j2zgvspweajdnjj20g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6aQkfYK3Yhn6unVmotZRvW8KseoiB9SBi4YeMbbXyEZt",
+      "name": "Direct Relief Token",
+      "symbol": "DRT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/guqcqka6r54ukiexd4spfdzd3nxo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J8rWt9L7XWx2isXoLmAUSCGtsLqBtJoZciv3hVamkfNH",
+      "name": "MAZI LOVE",
+      "symbol": "MLE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jo4sxd9n37p8kas2d2du7li7a3sq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "293pPMC9s6rfkZvmJDrFMq9sSwBnaiNHXmoPbP3yCme4",
+      "name": "HITWIN PREDICTS",
+      "symbol": "HWIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9guvwh1udwjrufg1yk0wgq6i7zb8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "cBYn3WxtT5nxjBwuXmr1CX1gpMhM9mfRqGVK2dhJfbD",
+      "name": "MAZI MAN",
+      "symbol": "MMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tsf2k698z671ebehtlsrmicdju7g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "hmQuMzW4JEXk4avGzC5vt3Xu2C9hMgPEL93WqXWw3Jy",
+      "name": "MAZI BABY",
+      "symbol": "MBY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gucu2gzv46zzth37rdo1lh6ryl0f",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HVh1pAscQzT2H7eeZzKyG2Sg1NPRF6EFvsBWkqcsQ4d9",
+      "name": "Datum Coin ",
+      "symbol": "DAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/n43swe3dxscdhzyz15ejs4t81whx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3RuhzJCn7P8bRWqPHb3S4nR4o58d1XkED6YpsWpZ8sUD",
+      "name": "SAVE THE CHILDREN TOKEN",
+      "symbol": "STCT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/c57wcwhh1i37irgmh93lt4yt3y29",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AANWetVYysG7mtJrYXKYmrb9RGiydwRRA5LHwYeKcihy",
+      "name": "Django Unchain Talent",
+      "symbol": "DJO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oi30vz40g2rd1jdmvpgi0e7vziva",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Gqd7s2Tq2je5TSnUyWe14FLpSnmjxjeH5EeSCKwUB5kE",
+      "name": "RENEC SHIBA",
+      "symbol": "SINEC",
+      "decimals": 3,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/avmioxpzq7kyqaxrs50se9r7jiau",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EQNa6TcR4SvaCyouerenSeDLDmioma2vxe9UXGDgYpDq",
+      "name": "Kilimanjaro tz",
+      "symbol": "KILI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/9ctkoivxtxwc83e7xijbgn3gipy4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5cKyNxo1hYyMRXL23CSHe4pdTKXMBcsq2QCh1RkWCtHy",
+      "name": "Great Eagle Token",
+      "symbol": "GET",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/dle2zu5s9vmhq2or8ura5472zt2r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HQDS1WeXvbKeWWN9ZTWfwaYs4EXwW6LSNxyPBHfxd4rq",
+      "name": "Camanga Parents Legacy",
+      "symbol": "CPL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4rulsd459x19bw2o87k4ey9ngjiw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CqNbJnXMZqBXwtdZRrJDBDc9UnpntWo7Qj9iQV5r1wme",
+      "name": "Tokenomics",
+      "symbol": "TKN",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/5i03nocbe1jv6szbem9pa6b7mvgf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FkuiE2HX69QcopGAXHaTZVZ7oNUaPPQF9vcwpfUNcuCW",
+      "name": "CR7 SIUUUUU",
+      "symbol": "SIUUU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1pwtlahbjv1kkw31y5ozddlmuvsn",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9BY2QELFkxtzs6E8ob3GqVHb51KwQYMGizV9NwtbAvWN",
+      "name": "Core Renec",
+      "symbol": "Crnc",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/a25e9sat0rmow2avw322guzkz6tx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J56MhYaGGAj3AhtPeZPVMaZcPMHkn15TccW6ZYhyuf91",
+      "name": "CrashCoin",
+      "symbol": "CHCN",
+      "decimals": 6,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/i8x7dynyai1ttxg613a3kbow9j3c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Fj1EL9LFkNgKuqN745PTGkDb5qGfdVi4nLkJvErgtQMh",
+      "name": "SHP BANK CRYPTO",
+      "symbol": "SHP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gnxmg9tiezbox7k53ca4b9aa6a71",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5Ld1hPeFjRnYer8YrBDhczu4FTg1aYs6GaiFAHofJ2oE",
+      "name": "Zksync ren",
+      "symbol": "ZKR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/krpjmvytt8js9mb8bx5fayvsv0tv",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9Pc59Kn7pDUgKoyTX5aqecmoo5BvMcTQB9bsAxTfiDg7",
+      "name": "PEPERENEC",
+      "symbol": "Peper",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cxrcpo2h0jqx4la6wq7xcccwmrbj",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FdToeUUNqhqPUx4sdyJGDzhJvW63bNQm8PJULmq3ZgBp",
+      "name": "ShibaKing",
+      "symbol": "SKING",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gsqwhntocj6s39zr5rh3c3sh2myb",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BL1UMaBVkGNVQWNzGhGEwSaU61jBydEHVpk48wkvsBcb",
+      "name": "CryptoCorgi",
+      "symbol": "CORGI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1bfv5oy5mauoqst7dxxz767xl46o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6fyk51oQEipYZrE1E7E169UMYpo3fQJ1iTze2mWU9E9z",
+      "name": "IROKO KING",
+      "symbol": "IRK",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nrcdyecfqgqaec1fxx51icx7ire2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "B3ySSb4w6cjb2eHRoiaUcGvrttdSvNBuiDXDvhLRjUFs",
+      "name": "Pooh Token",
+      "symbol": "POOH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/knac50qj9gmu97f841buimg2mzj3",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6UeFNrG49uiJP49bxy79wD9eL9j1FFEymjq71ZiQ9VWA",
+      "name": "FIRE COIN",
+      "symbol": "FRC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/32nqodoa8vnat9va4dijopxa30j8",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Fmu9WEYt7ShD5gjjvirHAWWb2dkWHKSnFxM4PcUaVvd",
+      "name": "JERRY Coin",
+      "symbol": "JERRY",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/72wh927m6w2gsstrxgwdc8huxxbp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9mAmV1ownPjdr8kgquXZdJ9qhsC2NsryNWddbbAKzk3X",
+      "name": "MOSA Wookies Dreamer",
+      "symbol": "MOSA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8npgwsgwispvgvjnvfm5kpljft68",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3GddmfSkGWkkkCCvLyorKVupoeErxKCoKas3iRM6XtzQ",
+      "name": "Make Money Online",
+      "symbol": "MMO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/frux5vvnciwx2hrhev4ckio1igs6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3Lh1LjdZaVj8YiGXAVr9qmp1ovimn4ZiZJczBv7RzjLL",
+      "name": "PiNetworkBlog",
+      "symbol": "PNB",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3ih289epsis5fdr58t29gwswycg7",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6UspTHNENZoDDxwbnWRPNxMFGS2Jk8oNye4WHiWafvJy",
+      "name": "Tplus Invest Group",
+      "symbol": "TPLUS",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/22nebfrfem0zrsvwmg27gkwudqg4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9uWqsr6WZnVBXKci8vqy6robUVYRZrVeFcH568AKRXZE",
+      "name": "lulu",
+      "symbol": "LULU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lssyjh91wti59s8tyht06z81b50o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "brXCxNcK455xXWZ3u5YiJ6u5AhxzTBD4g1SwEFFkuZt",
+      "name": "GoldCoin",
+      "symbol": "GOLD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6cartt5dyva32mamr5c5naej6e7e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "J6kVA7jTYFujGAtuggBBtpPPHBiZhgUdE3qiCrvGqFZZ",
+      "name": "KC",
+      "symbol": "KC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/oe2u6yxfnxkf23vzbxtmy71p8lyo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "AQQPhfKNiH1MSqex22nKk2iDbT4vN2QLzbg5muKCCKeV",
+      "name": "shibu",
+      "symbol": "SHIBU",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8ztar4qx3aryhpi9mww2fhvjgw7o",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8KuABXWXJJwCCbNzHR3JQntc7Emw6pptKnv5vpMEp6W1",
+      "name": "FUN",
+      "symbol": "FUN",
+      "decimals": 4,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/6uh1cm47x4ve5gahu4wcpyk2w43j",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EqGLWRs3Pc6hz164tKF13HRdpxWspdhM5xyq4GU43wh2",
+      "name": "Millionaire Coin",
+      "symbol": "MCOIN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4i9rnv4c6313437f7u2dhbjjgod0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6g7pZfaJNq2CwKvgbcdCxvcHmnaD8TTejVXuqr5orsEY",
+      "name": "polainu",
+      "symbol": "pln",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/acx8tscsxk1fhxsafvyfk26cn6x6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "247DjLcbAFjRQvPbttmde7C1e6jFpomsrMhoFrLANopR",
+      "name": "Dragon Ffy Token",
+      "symbol": "DFT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/h2mkhaj6b9ai2zpbbrfzc4t9yv7e",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8RxGEw45uiDfffDMJvG7bBfFpq9LA8UAex1M1u6VKeV2",
+      "name": "Whale",
+      "symbol": "WHALE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nsdow7zvtp399jfn02q5s5d9dgqs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9WKVqvxhdYh8Q5UjaeeZZ6qRuoaPqHLTVN5KZKrvcwCh",
+      "name": "Baby Shark",
+      "symbol": "BBS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/0ggy1vp9wohtxdz6pp131ieo6t6k",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8Py1G5ookonx1qmCe8ec818gD5qFqeMvYnmD3sjkfnTi",
+      "name": "hextracoin",
+      "symbol": "HXT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/izd8if82cdcdgjlcdbnh0195icyl",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "7NYwhFJLRUhBo8r6E2wuYJ86cee4LXG1mZKJB4HQC49m",
+      "name": "ANNURY TOKEN ",
+      "symbol": "ANUT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/so9nrfyz9sfm8sc5l6tjucx8d2f5",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "A1U33Siaby9dAL1kkabFeXyqZXC7hudcSmhTeg9xV9v1",
+      "name": "Pool",
+      "symbol": "POOL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1agcoxgv42vvw632tm7n1zeh8pt0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "9fckZTkB9Zx13G483WY6tAiCL2KhnqAYtd94vTNg2G7v",
+      "name": "FCARE247",
+      "symbol": "FC247",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/crq51pwbegys5vwww5vlofrmky3i",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CeBu2iTwnqY8wqLMp7YkPVn95JjEQDYZJEw9FECuci2K",
+      "name": "COCKROACH COIN",
+      "symbol": "ROACH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/cqjfvlzht263udri0pp41z3moqv9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "32ufdNq676GsGTj3QQXAqHx9ySgLDaajJdaxMDVmardj",
+      "name": "SHTV Coin",
+      "symbol": "SHTVC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/45xlmtoq175y57erssv26q6f56ga",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BgNZK6K6dMidQ8EaeWwBgrM72LFz3JAttwUWvSgUATFJ",
+      "name": "BIGPRO Coin",
+      "symbol": "BPR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/yuurctz3hnob5oexnfjn4l0287in",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5NMezo7bLPSQGrBzcqQRDMXHY8r3zMa2zQ4XkUVkk9wK",
+      "name": "adalinewudsl",
+      "symbol": "grace",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/4fhs190zhq7h2w6h0pgelil8dl1c",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "HFWSRYfGj8L3NqCSHh2UTu4L7RpNjZvhUBagupcYCsSr",
+      "name": "AVIVA",
+      "symbol": "AVI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gxpcivs8izm8znvntkaa13klouf0",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5coumXCR1qzrSxhrpfMCKsetxs1cHt1TE1neGp4srZsE",
+      "name": "NEXUS",
+      "symbol": "NEX",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/aygcmcp6r15vbo1hcjiz5bx89a6w",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3wMaa3qZFQMUzy8LFG5n8r6fDtFEqV4oyFnta22jiLRG",
+      "name": "SWALASWAP",
+      "symbol": "SWALA",
+      "decimals": 8,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o7jxqt3d6ql5bqcd4cakv0cdmjtd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3Af4GrD4fCZ6S1uArwVxwo8GgtHn6G4Ye6an8JJuZ5kz",
+      "name": " Inu Iced Milk Coffee",
+      "symbol": "IIMC",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/wto7i7eas0pe7lstmgm9oc1a76ah",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "2NfKjxetMeScv9k2z5mNPbeE2u7CwmaHVCzptQBSJJ3F",
+      "name": "Kosova",
+      "symbol": "KS",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l48uiwogdpigb35o06lfm84xkxdg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8ZvzYygSLU6yUUF1VGWGwmpe49B2RSfLV4mf6VwCTKs9",
+      "name": "Elites",
+      "symbol": "ELT",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/1tao3d4stnq5wc6a7t75uec1obwr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Fe3q1rMW4gHGpL1wGrmq5NpkcxZg4Y2ktm5ifs1Bf5cR",
+      "name": "Happy",
+      "symbol": "HAP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gxj7cz1417bqndxdj2n9pg91z0fc",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BqKBgncoSH6uwHoHqArF4dofo9or3kPWP9K6WZJEMeQh",
+      "name": "BITCOPPER TOKEN",
+      "symbol": "BITCO",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o6jl6qupdtsyorlxv6u77gyke2bf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "NzsZVw9MUF723oTSTR3nNLtUNipPjhsy21xkZDGddLe",
+      "name": "AVIVA COIN",
+      "symbol": "AVIVA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/10af5bh8bxtkpgczc7dj21pc5uso",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GB1Hg9d3KkRsGp2XFKuVGL28aCTFbBdmADLMSvh5AVvA",
+      "name": "Lemonade",
+      "symbol": "LMN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/u559mfx77qt5butj59tj0vjvr90a",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "ELhKjrU1QNEgpQ3qeXmbhfKaa3kiXYVS3A5ZrGrV7Qsb",
+      "name": "ValorCoin",
+      "symbol": "valor",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/qqpfgyfw69wmqlr0blps6dq9aduo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Hiynjic5ekbZBEBU73KN5RaAdkLUcGDW6sYfST431BYt",
+      "name": "PulseChain Classic",
+      "symbol": "PLSC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/nbfzb8wwj9e8lwq787iwe4q6ksj9",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5PBSPXbaGpextUbrjJ3NxCQyPBkPPF9QcMYms7JpDxF1",
+      "name": "RENEC PAD",
+      "symbol": "rePAD",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/vvhbmuey82uv7jmvbwh3glrljg28",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "H1Cwjnq2Fyf46EDdn7VrabdL5nuqFA5nGUBbN7K19T8t",
+      "name": "Dinochrome",
+      "symbol": "Dino",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/t8kcl9jqic3v082p5her5yt0gb6t",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "za78GrpSzs7ny5vUoqv9oUoySZDwgDNumnc5sDEEsZM",
+      "name": "HASAGi",
+      "symbol": "YASUO",
+      "decimals": 2,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/uhlu9cup5ndpd7lgcdlh01oihvnw",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "DfocEzYgAjkwHam2LjxpqiWqdzse6fCFCv4coL3pnYq5",
+      "name": "RULER",
+      "symbol": "ZERI",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gqtbmjmhittwhxnptsn34d35xob6",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "14gBdATCTo5k3TGZMvtm8hyGhdfQht2uc5RGeRM5rqdw",
+      "name": "BANG",
+      "symbol": "LUCIA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/tqwrspu5kuu7eolcqsvdv5r99mxo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CJLLjKp4m791xXaMySQhB9nM9RueCiNYGJjPDgy7rtTq",
+      "name": "Warrior",
+      "symbol": "WRR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mm3siyetba1v255rh0rphqagi0vp",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BWv7FZQF699uvE3T9WwHRBfoFpsyirXxteFQPwjyVds9",
+      "name": "Renec Crowd1 Foundation Coin",
+      "symbol": "RC1",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o2v5hsl525okyvjoojvot6upsz9r",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "5cSYAHHWNAmULDwm9W8G8vvu4DXRCAqWqV48x3q9poJf",
+      "name": "USD SHP BANK CRYPTO",
+      "symbol": "USHP",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/2bkjzipy8556gzq9pgqiihmkr115",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8sgQtL6eDDyYUM8EhuiuN4dn2qWcKjuZZYctNbUHjGT8",
+      "name": "Tea 4",
+      "symbol": "TEA4",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/3c0fp818w8vwl5oaxvu1sjgbtjzo",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GfwLr6EFUaXxuxMCd43FLvsvAytbFsvMY9SEnp88VpYn",
+      "name": "Coffee bean",
+      "symbol": "BEAN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/39idg6lbkyjo7oh49rd9ayaxclde",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "APdL6mZNx5XJtncWkwuyXY5PRa3o11JEqHzWjSUSBYE5",
+      "name": "YASUOOO",
+      "symbol": "YAH",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/r0e969w6oohvx1imgh08y9pj2qe4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "4S3HzeK9nmxyujNWhWGpb4zqbzAXZU41rByV5ZL3w9QL",
+      "name": "Nudge",
+      "symbol": "NDG",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ug5kdtf29af9rwfi1cuzhfrgowlr",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "8C4N6YbnQ8yrwrrqppA7ndKUzLUS1j4uKsmX18ZFrXdn",
+      "name": "League Of Legends Fan",
+      "symbol": "LOL",
+      "decimals": 0,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l8lc0pxx2ixshtvk5xqj8fd06miq",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EYgZmcqobBHBN78MxJgGNBi2GLLx9cGJwVy6tNbENUmR",
+      "name": "Tea",
+      "symbol": "TEA",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/mwvrs70sc2rwavezop2kucqd2nmx",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FZgF3bsrKCiKRrwQyvefM33ZgWyPCKv3a7o1AUgzVSNJ",
+      "name": "RHORSE",
+      "symbol": "RHE",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/gk4xl5ptgksh19kotbeava04qmmf",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "C5nRPTi9V2TVuNhEP9AoDYQXjshP76Mavc5JFMsDRPTm",
+      "name": "CryptoChameleon",
+      "symbol": "CCN",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/8n7dluow6rqk87t170xshp75ozx2",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "zqk4tpVBRDPoQdRUSHxPmyNYVvD87Ec2Ji2RrAMwGD1",
+      "name": "HEN COIN",
+      "symbol": "HNC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/lsg8rbwfibxsl3ibs7k7uri5j7fy",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "CMy2ZuSeqwVYo4hnKbTTzQGJnA7QBAzK7fcwpEtJhS6L",
+      "name": "RBALL",
+      "symbol": "RBL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/x2vc1ei7gig4x71tfovhtucf4ady",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Ad3q614Jm61mi7DepHoo4Fy8w9fFggmdiPAM3AaqzXnM",
+      "name": "BullBear",
+      "symbol": "BBR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/l592euo4yovh5tek12ewh7mut68g",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GGzQxfKCVyGNXXNPLtC5EnoRuFCogf8EvtXVLZ6uda7J",
+      "name": "GigaGator",
+      "symbol": "GGTR",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/baufi4eg2yfciof03vc2nt88z4ta",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "Dhvx5dnMgZmew3At5b6bji2qP4yWcQYTYrWbPzsfYir",
+      "name": "PizzaPlanet",
+      "symbol": "PZZPL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/jdr8zdhx9e01yjmaz6yh7c32mihd",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "BdGD9u8mBJyzmg23WqjHnd6XTYkkA3Kq6NEAeW4Pnjyh",
+      "name": "MonkeyMoon",
+      "symbol": "MM",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/o8qlzvxjnj2bpc43tge03w95p1gs",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6L8hBZYA3rk5e8BopZTMwrq9asfFWLn9jLTMWfmfQeMh",
+      "name": "MAIZE CORN",
+      "symbol": "MAC",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/hjcey0dejaydnx6texh6bbcujyh4",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "GvkLa5oT4vBMHL3KFt7B5drhUbHWPi3jEi3DBmP1Wikf",
+      "name": "XL",
+      "symbol": "XL",
+      "decimals": 9,
+      "logoURI": "https://easytokenbucket.s3.amazonaws.com/ecegn2w3hg8x1tmgrn3t4fx7y6nx",
       "tags": [
         "utility-token"
       ],
