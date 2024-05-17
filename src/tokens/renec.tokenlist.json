@@ -2629,6 +2629,19 @@
       ],
       "extensions": {
       }
+    },
+    {
+      "chainId": 102,
+      "address": "3xAbcdefghijklmnopqrstuvwxyz",
+      "name": "PAT_3",
+      "symbol": "PAT3",
+      "decimals": 9,
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhiMnRpYVhRMU9EYzFjR3N4Y3pkalluQjFiR3cyY0d0MmNtWm5ZUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW14dloyOHVjRzVuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0Snlkc2IyZHZMbkJ1WndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraURtbHRZV2RsTDNCdVp3WTdCbFE2RVhObGNuWnBZMlZmYm1GdFpUb0pkR1Z6ZEE9PSIsImV4cCI6IjIwMjQtMDUtMTdUMDk6NDg6MzYuMTI1WiIsInB1ciI6ImJsb2Jfa2V5In19--c71487b120d7484b515e78dcef69eee297c4f78b/logo.png",
+      "tags": [
+
+      ],
+      "extensions": {
+      }
     }
   ],
   "version": {
