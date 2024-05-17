@@ -2581,12 +2581,11 @@
       "chainId": 101,
       "address": "3xmiBxpEStng5eX37pNzYrrTifxtVp4qLmJzU3uL1MtJ",
       "name": "hihi",
-      "symbol": "hoho",
+      "symbol": "hoho1212",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhlSGM1WTJVMU1HMHdlVzV1WkdveGRUTnVjekk1YlROMWJYcGpOZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GMkxuQnVaeUk3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWVhZdWNHNW5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lPYVcxaFoyVXZjRzVuQmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjoiMjAyNC0wNS0xN1QwNjo0MDowOC43NDBaIiwicHVyIjoiYmxvYl9rZXkifX0=--676e6cf47688c2fd2fd11fbc9fac7647d86fe098/av.png",
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhlSGM1WTJVMU1HMHdlVzV1WkdveGRUTnVjekk1YlROMWJYcGpOZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpTjJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SW1GMkxuQnVaeUk3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWVhZdWNHNW5CanNHVkRvUlkyOXVkR1Z1ZEY5MGVYQmxTU0lPYVcxaFoyVXZjRzVuQmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjoiMjAyNC0wNS0xN1QwNjo0Mzo0MC4zNTdaIiwicHVyIjoiYmxvYl9rZXkifX0=--9eef968885a3d7662d19b5413a13b60fcf36a7ef/av.png",
       "tags": [
-        "tag_en_2",
-        "tag_en_1"
+        "tag_en_2"
       ],
       "extensions": {
       }
