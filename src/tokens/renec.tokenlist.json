@@ -2594,11 +2594,11 @@
       "chainId": 102,
       "address": "3xmiBxpEStng5eX37pNzYrrTifxtVp4qLmJzU3uL1MtJ",
       "name": "hihiaa",
-      "symbol": "13",
+      "symbol": "hihiaa 1233",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkbWg0TjNGME1EZHdjMko0Y0RneFpHNW9NbTFyTXpka00ydDJhd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpT1dsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWpFeE1TNXdibWNpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSnpFeE1TNXdibWNHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzl3Ym1jR093WlVPaEZ6WlhKMmFXTmxYMjVoYldVNkNteHZZMkZzIiwiZXhwIjoiMjAyNC0wNS0xN1QwNjo0ODo1MC4zNTZaIiwicHVyIjoiYmxvYl9rZXkifX0=--6c25e9e0a03bedca9e7c2dd05b14c292b171c575/111.png",
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkbWg0TjNGME1EZHdjMko0Y0RneFpHNW9NbTFyTXpka00ydDJhd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpT1dsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWpFeE1TNXdibWNpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSnpFeE1TNXdibWNHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzl3Ym1jR093WlVPaEZ6WlhKMmFXTmxYMjVoYldVNkNteHZZMkZzIiwiZXhwIjoiMjAyNC0wNS0xN1QwNjo1MDoxMS41NDBaIiwicHVyIjoiYmxvYl9rZXkifX0=--157a260d7b209383332d9703111d505b06cebea2/111.png",
       "tags": [
-
+        "tag_en_1"
       ],
       "extensions": {
       }
