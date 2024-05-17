@@ -2596,9 +2596,10 @@
       "name": "hihi",
       "symbol": "hihiaa 1233",
       "decimals": 9,
-      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkbWg0TjNGME1EZHdjMko0Y0RneFpHNW9NbTFyTXpka00ydDJhd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpT1dsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWpFeE1TNXdibWNpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSnpFeE1TNXdibWNHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzl3Ym1jR093WlVPaEZ6WlhKMmFXTmxYMjVoYldVNkNteHZZMkZzIiwiZXhwIjoiMjAyNC0wNS0xN1QwNjo1NzoxOS45MzRaIiwicHVyIjoiYmxvYl9rZXkifX0=--30f38424061b80f1e9e81cc7ae7b6fd14b2ae081/111.png",
+      "logoURI": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhkbWg0TjNGME1EZHdjMko0Y0RneFpHNW9NbTFyTXpka00ydDJhd1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpT1dsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWpFeE1TNXdibWNpT3lCbWFXeGxibUZ0WlNvOVZWUkdMVGduSnpFeE1TNXdibWNHT3daVU9oRmpiMjUwWlc1MFgzUjVjR1ZKSWc1cGJXRm5aUzl3Ym1jR093WlVPaEZ6WlhKMmFXTmxYMjVoYldVNkNteHZZMkZzIiwiZXhwIjoiMjAyNC0wNS0xN1QwNzowNzozNS44MTBaIiwicHVyIjoiYmxvYl9rZXkifX0=--062a5b9f4390d3b23e05036e2ab589b7661342cf/111.png",
       "tags": [
-        "tag_en_1"
+        "tag_en_1",
+        "tag_en_3"
       ],
       "extensions": {
       }
